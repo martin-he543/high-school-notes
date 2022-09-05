@@ -21,7 +21,8 @@ Free for personal use only.
 ##### OCR GCSE Classical Greek
 ##### OCR GCSE Latin
 
-<br />
+---
+
 ##### AQA A-Level Chemistry
 ##### AQA A-Level Physics
 ##### OCR A-Level Further Mathematics
