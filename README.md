@@ -1,5 +1,7 @@
 # High School Notes
 
+Deprecated Version! Please now visit: https://martinhe.com/notes/#high%20school
+
 High School notes, courtesy of yours truly.
 Contains revision notes for both GCSE and A-Levels.
 
